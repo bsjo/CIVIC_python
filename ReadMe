@@ -1,0 +1,12 @@
+#CIVIC python
+
+#At first, you need to install 'requests module of python'.
+#sudo pip install requests
+#CIVIC data from CIVIC
+#https://civicdb.org/releases
+
+#Input : Evidence Summaries(CIVIC)
+#Output : Parsed table
+#Execute : python CIVIC.py
+
+#by BioinformaticsAndMe
